@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">Usuń</string>
+    <string name="unlockscreen_recharging_message">Ładowanie: %d%%</string>
+    <string name="unlockscreen_recharge_completed">Bateria naładowana</string>
+    <string name="unlockscreen_low_battery">Podłącz ładowarkę</string>
+    <string name="lockscreen_charging_msg">Ładowanie</string>
+    <string name="emergency_call_string">Alarmowe</string>
+    <string name="forget_password_string">Nie pamiętam hasła</string>
+    <string name="input_puk_code">Wpisz PUK</string>
+    <string name="unlocking_sim_card">Odblokowywanie SIM</string>
+    <string name="input_pin_code">Wpisz PIN</string>
+    <string name="incorrect_pukcode_remaining_attempts">Nieprawidłowy PUK. Pozostało prób: %d</string>
+    <string name="incorrect_pincode_remaining_attempts">Nieprawidłowy PIN. Pozostało prób: %d</string>
+    <string name="incorrect_pukcode">Nieprawidłowy kod PUK</string>
+    <string name="incorrect_pincode">Nieprawidłowy PIN</string>
+    <string name="open_wifi_settings">Otwórz połączenia sieciowe</string>
+    <string name="lock_screen_date">EEEE, d MMMM</string>
+    <string name="lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="lockscreen_glogin_password_hint">Hasło</string>
+    <string name="lockscreen_glogin_checking_password">Sprawdzanie…</string>
+    <string name="login_website_in_case_forget_password">Aby zresetować hasło przejdź do i.mi.com</string>
+    <string name="lockscreen_glogin_invalid_input">Błędna nazwa użytkownika lub hasło.</string>
+    <string name="find_device_turn_off_flight_mode">Wyłącz tryb samolotowy</string>
+    <string name="phone_locked_string">Urządzenie zablokowane</string>
+    <string name="phone_locked_timeout_seconds_string">Spróbuj ponownie za %s s</string>
+    <string name="phone_locked_timeout_minutes_string">Spróbuj ponownie za %s min</string>
+    <string name="lockscreen_glogin_submit_button">Wpisz się</string>
+    <string name="phone_locked_foget_password">Zapomniałeś hasła?</string>
+    <string name="phone_locked_foget_password_header">Co powinienem zrobić, jeśli zapomniałem hasła?</string>
+    <string name="phone_locked_foget_password_content">"Możesz zalogować się do i.mi.com korzystając z konta Xiaomi, które jest powiązane z tym urządzeniem, i wyczyścić jego zawartość. Wszystkie dane osobiste zostaną usunięte z tego urządzenia. Następnie ponownie uruchom urządzenie i przywróć kontakty, wiadomości, zdjęcia i inne elementy z Chmury Xiaomi. 
+
+Nie będziesz tego wykonać dopóty, dopóki nie zalogujesz się na konto Xiaomi powiązane z urządzeniem. W innym wypadku będziesz musiał zflaszować urządzenie ponownie."</string>
+    <string name="phone_locked_foget_password_footer">"Kroki:
+Zaloguj się na i.mi.com, przejdź do “Znajdź urządzenia”, wybierz urządzenia i naciśnij \"Wyczyść urządzenia\"."</string>
+    <string name="phone_locked_foget_password_ok">Rozumiem</string>
+    <string name="lockscreen_access_pattern_start">Wzór rozpoczęty</string>
+    <string name="lockscreen_access_pattern_cleared">Wzór wyczyszczony</string>
+    <string name="lockscreen_access_pattern_cell_added">Dodana komórka</string>
+    <string name="lockscreen_access_pattern_detected">Wzór wykryty</string>
+    <string name="default_lockscreen_unlock_hint_text">Przesuń w górę, aby odblokować</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Wprowadzono niepoprawne hasło %d razy. 
+  Po kolejnych %d próbach zakończonych niepowodzeniem zostaniesz poproszony o wpisanie się z użyciem danych logowania do konta.
+
+ Spróbuj ponownie za %d sekund."</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Nie udało się odblokować urządzenia po %d próbach. Po kolejnych %d próbach zakończonych niepowodzeniem urządzenie zostanie zresetowane do ustawień fabrycznych.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">"Odblokowanie urządzenia nie było możliwe po %d próbach. 
+Urządzenie zostanie zresetowane do ustawień fabrycznych!"</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">Odblokowano przez Bluetooth</string>
+    <string name="wrong_password">Nieprawidłowe hasło</string>
+    <string name="keyguard_torch_cover_text">Naciśnij przycisk Zasilania, aby latarka pozostała włączona</string>
+    <string name="confirm_pin_msg">Wpisz ponownie PIN</string>
+    <string name="invalid_confirm_pin_hint">Podane kody są różne</string>
+    <string name="unlock_string">Odblokuj</string>
+    <string name="open_camera_hint_text">Przesuń w lewo do %s</string>
+    <string name="open_remote_center_hint_text">Przesuń w prawo do %s</string>
+    <string name="left_action_default_hint_text">MiPilota</string>
+    <string name="click_to_enter_text">Dotknij, aby zobaczyć</string>
+    <string name="fingerprint_try_again_text">Spróbuj ponownie</string>
+    <string name="fingerprint_try_again_msg">Nie można zweryfikować odcisku palca</string>
+    <string name="fingerprint_not_identified_title">Wpisz hasło</string>
+    <string name="fingerprint_not_identified_msg">Podaj hasło lub użyj odcisku palca za %d sekund.</string>
+    <string name="fingerprint_again_identified_msg">Odcisk palca jest teraz aktywny. Użyj go do odblokowania urządzenia lub wpisz hasło.</string>
+    <string name="fingerprint_add_title">Dodaj odcisk palca</string>
+    <string name="fingerprint_add_text">Mechanizm odcisków palców został zaktualizowany. Dodaj swój odcisk ponownie.</string>
+    <string name="invalid_sim_pin_hint">Wpisz PIN. (4-8 cyfr)</string>
+    <string name="invalid_sim_puk_hint">Kod PUK to 8 lub więcej cyfr</string>
+    <string name="input_password_hint_text">Wpisz hasło</string>
+    <string name="input_pattern_hint_text">Narysuj wzór odblokowania</string>
+    <string name="input_password_after_boot_msg">Wpisz hasło aby odblokować urządzenie</string>
+    <string name="input_password_after_boot_msg_must_enter_owner_space">Po ponownym uruchomieniu urządzenia wpisz hasło do pierwszego profilu</string>
+    <string name="accessibility_enter_lock_wallpaper">Dotknij, aby zmienić tapety</string>
+    <string name="lock_wallpaper_learn_more">Więcej</string>
+    <string name="lock_wallpaper_enter">Przejdź</string>
+    <string name="custom_lock_wallpaper_enter">Przejdź</string>
+    <string name="fingerprint_enter_second_psw_title">Wpisz hasło drugiego profilu</string>
+    <string name="fingerprint_enter_second_psw_msg">Wpisz hasło do drugiego profilu po ponownym uruchomieniu urządzenia, aby móc korzystać z rozpoznawania odcisku palca</string>
+    <string name="fingerprint_enter_second_psw_msg_oldman">"Can't enter Second space while in Lite mode"</string>
+    <string name="keyguard_charging_info_click_to_detail">W trakcie ładowania...</string>
+    <string name="keyguard_quick_charging_info_click_to_detail">Szczegóły</string>
+    <string name="keyguard_quickly_charging_info_charging_text">Szybkie ładowanie</string>
+    <string name="keyguard_charging_info_finished_charging_text">Naładowany</string>
+    <string name="keyguard_charging_info_charging_text">Ładowanie</string>
+    <string name="keyguard_charging_info_charging_full_need_min_time__text">Ok. %d min do naładowania</string>
+    <string name="keyguard_charging_info_charging_full_need_hour_time__text">Ok. %d godz. do naładowania</string>
+    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Ok. %d godz. %d min do naładowania</string>
+    <string name="keyguard_charging_info_could_use_min_time_text">Pozostało ok. %d min</string>
+    <string name="keyguard_charging_info_could_use_hour_time_text">Pozostało ok. %d godz.</string>
+    <string name="keyguard_charging_info_could_use_time_text" formatted="false">Pozostało ok. %d godz. %d min</string>
+    <string name="keyguard_charging_info_last_charge_today_time">Dziś %s</string>
+    <string name="keyguard_charging_info_last_charge_yesterday_time">Wczoraj %s</string>
+    <string name="keyguard_charging_info_last_charge_time">d.M H:mm</string>
+    <string name="keyguard_charging_info_drained_hour_time_format">%d godz.</string>
+    <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
+    <string name="keyguard_charging_info_drained_time_format" formatted="false">%d godz. %dmin</string>
+    <string name="keyguard_charging_info_current_now_text">Natężenie</string>
+    <string name="keyguard_charging_info_charging_voltage_text">Napięcie</string>
+    <string name="keyguard_charging_info_battery_temperature_text">Temp.</string>
+    <string name="keyguard_charging_info_last_charged_time_text">Ostatnie ładowanie</string>
+    <string name="keyguard_charging_info_battery_used_time_text">Na baterii</string>
+    <string name="keyguard_charging_info_drained_power_percent_text">Użycie</string>
+    <string name="keyguard_charging_info_tip_text1">Aby przedłużyć życie baterii, nie rozładowuj jej poniżej 10%.</string>
+    <string name="keyguard_charging_info_tip_text2">Nie ładuj baterii zbyt długo. Kilka krótszych ładowań jest lepsze niż długie, całonocne ładowanie.</string>
+    <string name="keyguard_charging_info_tip_text3">Unikaj ładowania, gdy temperatura otoczenia spada poniżej 0℃</string>
+    <string name="keyguard_charging_info_tip_text4">Nie używaj telefonu aktywnie podczas ładowania. Może to doprowadzać do przegrzania baterii i urządzenia.</string>
+    <string name="keyguard_charging_info_tip_text5">Ładowanie baterii cieplejszej niż normalnie trwa dłużej.</string>
+    <string name="keyguard_charging_info_tip_text6">Wyłącz ekran telefonu i odłóż w chłodne miejsce.</string>
+    <string name="keyguard_charging_info_data_ma">%s mA</string>
+    <string name="keyguard_charging_info_data_v">%s V</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="experimental_try_string">Wypróbuj</string>
+    <string name="experimental_validate">Weryfikuj</string>
+    <string name="experimental_validate_fail">Nie udało się zalogować</string>
+    <string name="experimental_validate_password">Hasło</string>
+    <string name="experimental_validate_progress">Logowanie…</string>
+    <string name="experimental_validate_thanks">Dziękujemy!</string>
+    <string name="experimental_validate_username">Nazwa użytkownika</string>
+    <string name="experimental_validate_warning">Dziękujemy za pomoc w ulepszaniu MIUI!</string>
+    <string name="fingerprint_lockout_msg">Poczekaj minutę i spróbuj ponownie</string>
+    <string name="lock_wallpaper_see_more">Więcej</string>
+    <string name="missed_call_text">%d nieodebranych</string>
+    <string name="unlock_sim_string">Odblokuj</string>
+    <string name="unlockscreen_quick_charging_message">Szybkie ładowanie: %d%%</string>
+</resources>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Usunąć wątki (%1$s)?</item>
+        <item quantity="one">Usunąć wybrany wątek?</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+        <item quantity="few">%d s</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+        <item quantity="few">%d s</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Wyniki dla „%2$s”: %1$s</item>
+        <item quantity="one">%1$s wynik dla zapytania „%2$s”</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">Osoby: %1$s</item>
+        <item quantity="one">1 osoba</item>
+    </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">Usunąć %1$s wiadomości?</item>
+        <item quantity="one">Usunąć %1$s wiadomość?</item>
+    </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d SMS</item>
+        <item quantity="zero">%d SMS</item>
+        <item quantity="one">%d SMS</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d SMS</item>
+        <item quantity="zero">Brak SMS</item>
+        <item quantity="one">1 SMS</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%d SMS do synchronizacji</item>
+        <item quantity="one">1 SMS do synchronizacji</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">SMS: %1$s</item>
+        <item quantity="one">%1$s SMS</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">Wybranych: %d</item>
+        <item quantity="zero">Wybierz</item>
+        <item quantity="one">Wybrany: %d</item>
+    </plurals>
+</resources>
