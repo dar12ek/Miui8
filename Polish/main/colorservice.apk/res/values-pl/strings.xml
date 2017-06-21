@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description">Zezwala aplikacji na bezpośrednią modyfikację parametru wyświetlania przez urządzenie</string>
+    <string name="permission_label">Ustawienia modyfikacji wyświetlania</string>
+</resources>
