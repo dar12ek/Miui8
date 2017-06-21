@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sender_file_num">
+        <item quantity="other">Oczekiwanie na %1$d plików</item>
+        <item quantity="one">Oczekiwanie na %1$d plik</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d plików od %1$s</item>
+        <item quantity="one">%2$d plik od %1$s</item>
+    </plurals>
+    <plurals name="receiver_file_current">
+        <item quantity="other">Otrzymywanie %2$d plików od %1$s</item>
+        <item quantity="one">Otrzymywanie %2$d pliku od %1$s</item>
+    </plurals>
+    <plurals name="receiver_pic_file_num">
+        <item quantity="other">%2$d zdjęć od %1$s</item>
+        <item quantity="one">%2$d zdjęcia od %1$s</item>
+    </plurals>
+    <plurals name="receiver_pic_file_current">
+        <item quantity="other">Otrzymywanie %2$d zdjęć od %1$s</item>
+        <item quantity="one">Otrzymywanie %2$d zdjęcia od %1$s</item>
+    </plurals>
+    <plurals name="receiver_audio_file_num">
+        <item quantity="other">%2$d utworów od %1$s</item>
+        <item quantity="one">%2$d utworu od %1$s</item>
+    </plurals>
+    <plurals name="receiver_audio_file_current">
+        <item quantity="other">Otrzymywanie %2$d utworów od %1$s</item>
+        <item quantity="one">Otrzymywanie %2$d utworu od %1$s</item>
+    </plurals>
+    <plurals name="receiver_video_file_num">
+        <item quantity="other">%2$d filmów od %1$s</item>
+        <item quantity="one">%2$d film od %1$s</item>
+    </plurals>
+    <plurals name="receiver_video_file_current">
+        <item quantity="other">Otrzymywanie %2$d filmów od %1$s</item>
+        <item quantity="one">Otrzymywanie %2$d filmu od %1$s</item>
+    </plurals>
+    <plurals name="receiver_apk_file_num">
+        <item quantity="other">%2$d apl. od %1$s</item>
+        <item quantity="one">%2$d apl. od %1$s</item>
+    </plurals>
+    <plurals name="receiver_apk_file_current">
+        <item quantity="other">Otrzymywanie %2$d apl. od %1$s</item>
+        <item quantity="one">Otrzymywanie %2$d apl. od %1$s</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">Otrzymywanie %1$s plików…</item>
+        <item quantity="one">Otrzymywanie %1$s pliku…</item>
+    </plurals>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">Nieudanych transferów: %1$s</item>
+        <item quantity="one">%1$s nieudany transfer</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">Otrzymano %1$s plików</item>
+        <item quantity="one">Otrzymano %1$s plik</item>
+    </plurals>
+</resources>
