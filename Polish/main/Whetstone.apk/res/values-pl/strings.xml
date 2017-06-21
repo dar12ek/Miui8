@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Optymalizacja systemu</string>
+    <string name="permstep_label">Czytanie akcja</string>
+    <string name="permstep_description">Pozwala na zastosowanie do przeczytania działanie urządzenia</string>
+    <string name="whetstone_accessibility_label">Whetstone serwis</string>
+    <string name="whetstone_accessibility_desc">Usługa pomocnicza Whetstone</string>
+</resources>

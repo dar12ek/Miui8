@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">%s aplikacji nie może pokazywać powiadomień</item>
+        <item quantity="one">1 aplikacja nie może pokazywać powiadomień</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%s aplikacji może pokazywać powiadomienia</item>
+        <item quantity="one">1 aplikacja może pokazywać powiadomienia</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Pokaż \"Opcje programistyczne\" za %1$d naciśnięć</item>
+        <item quantity="one">Pokaż \"Opcje programistyczne\" za %1$d naciśnięcie</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Ustawiono %1$d odcisku palca</item>
+        <item quantity="one">Ustawiono %1$d odcisk palca</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Hasło musi zawierać co najmniej %d litery.</item>
+        <item quantity="one">Hasło musi zawierać co najmniej jedną literę.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Hasło musi zawierać co najmniej %d małej litery.</item>
+        <item quantity="one">Hasło musi zawierać co najmniej jedną małą literę.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Hasło musi zawierać co najmniej %d wielkiej litery.</item>
+        <item quantity="one">Hasło musi zawierać co najmniej jedną wielką literę.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Hasło musi zawierać co najmniej %d cyfry.</item>
+        <item quantity="one">Hasło musi zawierać co najmniej jedną cyfrę.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Hasło musi zawierać co najmniej %d symbolu specjalnego.</item>
+        <item quantity="one">Hasło musi zawierać co najmniej jeden symbol specjalny.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Hasło musi zawierać co najmniej %d znaku niebędącego literą.</item>
+        <item quantity="one">Hasło musi zawierać co najmniej jeden znak niebędący literą.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Nieprawidłowy kod PIN karty SIM. Masz jeszcze %d próby.</item>
+        <item quantity="one">Nieprawidłowy kod PIN karty SIM. Masz jeszcze %d próbę, zanim będziesz musiał skontaktować się z operatorem, by odblokować swoje urządzenie.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplikacji może odczytywać powiadomienia</item>
+        <item quantity="one">%d aplikacja może odczytywać powiadomienia</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Zmień na same alarmy przez %1$d minuty, do %2$s</item>
+        <item quantity="one">Zmień na same alarmy przez minutę, do %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Zmień na same alarmy przez %1$d godziny, do %2$s</item>
+        <item quantity="one">Zmień na same alarmy przez godzinę, do %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">Przyznano %d uprawnienia</item>
+        <item quantity="one">Przyznano %d uprawnienie</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Przyznane uprawnienia: %1$d z %2$d</item>
+        <item quantity="one">Przyznane uprawnienia: %1$d z %2$d</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d dodatkowego uprawnienia</item>
+        <item quantity="one">%d dodatkowe uprawnienie</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d aplikacji może otwierać obsługiwane przez siebie linki</item>
+        <item quantity="zero">No app can open any supported link</item>
+        <item quantity="one">Jedna aplikacja może otwierać obsługiwane przez siebie linki</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d aplikacji może ignorować optymalizację baterii</item>
+        <item quantity="one">1 aplikacja może ignorować optymalizację baterii</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d aplikacji używało pamięci w ciągu ostatnich %2$s</item>
+        <item quantity="one">Jedna aplikacja używała pamięci w ciągu ostatnich %2$s</item>
+    </plurals>
+    <plurals name="virus_scan_app_find_risk">
+        <item quantity="other">%d zagrożeń</item>
+        <item quantity="one">%d zagrożenie</item>
+    </plurals>
+    <plurals name="auto_startup_count">
+        <item quantity="other">%d aplikacji z autostartem</item>
+        <item quantity="one">%d aplikacja z autostartem</item>
+    </plurals>
+    <plurals name="lockpassword_pin_fixed_length">
+        <item quantity="other">PIN musi składać się z %d cyfr</item>
+        <item quantity="one">PIN must be %d digit</item>
+    </plurals>
+    <plurals name="wifi_share_count">
+        <item quantity="other">Udostępnionych %d sieci</item>
+        <item quantity="one">Udostępniona %d sieć</item>
+    </plurals>
+    <plurals name="connected_devices_number">
+        <item quantity="other">%d urządzeń</item>
+        <item quantity="one">%d urządzenie</item>
+    </plurals>
+    <plurals name="free_wifi_connected_count">
+        <item quantity="other">%1$d people connected</item>
+        <item quantity="one">%1$d people connected</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Od dostępu do informacji dzieli Cię już tylko kroków: %1$d.</item>
+        <item quantity="one">Od dostępu do informacji dzieli Cię już tylko %1$d krok.</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">Przejdź do \"Diagnostyki\" po %1$d naciśnięciach</item>
+        <item quantity="one">Przejdź do \"Diagnostyki\" po %1$d naciśnięciu</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Rozpocznij generowanie raportu po %1$d naciśnięciach</item>
+        <item quantity="one">Rozpocznij generowanie raportu po %1$d naciśnięciu</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Wyłącz dla %d aplikacji</item>
+        <item quantity="one">Wyłączaj dla 1 aplikacji</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Nie wyłączaj dla %d aplikacji</item>
+        <item quantity="one">Nie wyłączaj dla 1 aplikacji</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Remove selected languages?</item>
+        <item quantity="one">Remove selected language?</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">%d el.</item>
+        <item quantity="one">1 el.</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Extremely short delay (%1$d ms)</item>
+        <item quantity="one">Extremely short delay (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Very short delay (%1$d ms)</item>
+        <item quantity="one">Very short delay (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Short delay (%1$d ms)</item>
+        <item quantity="one">Short delay (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Long delay (%1$d ms)</item>
+        <item quantity="one">Long delay (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Very long delay (%1$d ms)</item>
+        <item quantity="one">Very long delay (%1$d ms)</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">%d zadań drukowania</item>
+        <item quantity="one">1 zadanie drukowania</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Trust or remove certificates</item>
+        <item quantity="one">Trust or remove certificate</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s has installed certificate authorities on your device, which may allow them to monitor your device network activity, including emails, apps, and secure websites.
+
+For more information about these certificates, contact your admin."</item>
+        <item quantity="one">"%s has installed a certificate authority on your device, which may allow them to monitor your device network activity, including emails, apps, and secure websites.
+
+For more information about this certificate, contact your admin."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%s has installed certificate authorities for your work profile, which may allow them to monitor work network activity, including emails, apps, and secure websites.
+
+For more information about these certificates, contact your admin."</item>
+        <item quantity="one">"%s has installed a certificate authority for your work profile, which may allow them to monitor work network activity, including emails, apps, and secure websites.
+
+For more information about this certificate, contact your admin."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Check certificates</item>
+        <item quantity="one">Check certificate</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">%d apps blocked from sending</item>
+        <item quantity="one">%d app blocked from sending</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">%1$d apps allowed to use unrestricted data when Data Saver is on</item>
+        <item quantity="one">1 app allowed to use unrestricted data when Data Saver is on</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Znalezione drukarki: %1$s</item>
+        <item quantity="one">Znaleziono %1$s drukarkę</item>
+    </plurals>
+</resources>

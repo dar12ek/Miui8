@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_install_count">
+        <item quantity="other">%1$s pobranych plików</item>
+        <item quantity="one">%1$s pobrany plik</item>
+        <item quantity="few">%1$s pobrane pliki</item>
+    </plurals>
+    <plurals name="app_user_used">
+        <item quantity="other">%1$s użytkowników</item>
+        <item quantity="one">%1$s użytkownik</item>
+        <item quantity="few">%1$s użytkownicy</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d dni temu</item>
+        <item quantity="one">%1$d dzień temu</item>
+        <item quantity="few">%1$d dni temu</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d godzin temu</item>
+        <item quantity="one">%1$d godzinę temu</item>
+        <item quantity="few">%1$d godziny temu</item>
+    </plurals>
+    <plurals name="match_brand_selection_des">
+        <item quantity="other">%d producentów</item>
+        <item quantity="one">dostępny 1 producent</item>
+        <item quantity="few">dostępnych %d producentów</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d minut temu</item>
+        <item quantity="one">%1$d minutę temu</item>
+        <item quantity="few">%1$d minuty temu</item>
+    </plurals>
+</resources>

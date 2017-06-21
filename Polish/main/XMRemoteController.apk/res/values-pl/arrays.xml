@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Chłodzenie</item>
+        <item>Ogrzewanie</item>
+        <item>Osuszanie</item>
+        <item>Wentylator</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Twoje urządzenie może zostać sparowane tylko z Mi TV, Mi Box i z kilkoma innymi urządzeniami z sytemem Android za pomocą Wi-Fi.</item>
+        <item>Upewnij się, że wybrano odpowiedni model klimatyzacji w procesie parowania. Postępuj zgodnie z instrukcjami w urządzeniu, aż do zakończenia parowania.</item>
+        <item>Niestety tylko Mi4, Mi4c, Redmi Note 2 mogą korzystać z funkcji pilota.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Niedz</item>
+        <item>Pon</item>
+        <item>Wt</item>
+        <item>Śr</item>
+        <item>Czw</item>
+        <item>Pt</item>
+        <item>Sob</item>
+    </string-array>
+    <string-array name="question">
+        <item>Dlaczego mój telefon ciągle szuka bezprzewodowych urządzeń?</item>
+        <item>Dlaczego mogę tylko włączyć klimatyzację a nie mogę jej wyłączyć?</item>
+        <item>Czy mogę wykorzystać Mi 3, Mi 2, lub Redmi jako pilota?</item>
+    </string-array>
+</resources>
